@@ -1,5 +1,28 @@
-# 💫 About Me:
-# Muhammad Tegar Hidayatullah<br><br>👋 Halo! Saya Muhammad Tegar Hidayatullah, mahasiswa Sistem Informasi di Universitas Trisakti dengan passion dalam pengembangan aplikasi web menggunakan PHP native.<br><br>---<br><br>## Tentang Saya<br><br>- 🎓 Mahasiswa Sistem Informasi, Universitas Trisakti  <br>- 💻 Pengembang web dengan keahlian PHP native, HTML, CSS, dan JavaScript  <br>- 🛠️ Berpengalaman membuat berbagai proyek website mulai dari bengkel, restoran, hingga buku tamu  <br>- 📚 Penulis buku tentang pemrograman web untuk pemula  <br>- 🎯 Fokus pada pengembangan aplikasi web sederhana, efektif, dan mudah digunakan  <br>- 🎮 Hobi: Menghabiskan waktu di depan komputer<br><br>---<br><br>## Proyek Unggulan<br><br>- **Website Bengkel Mobil dan Motor** — Sistem manajemen bengkel lengkap dengan fitur booking dan histori servis  <br>- **Website Restaurant** — Platform pemesanan online dengan tampilan user-friendly  <br>- **Website Buku Tamu dengan Laravel** — Aplikasi pencatatan tamu berbasis Laravel dengan sistem administrasi efisien  <br>- **Penulisan Buku Pemrograman Web** — Buku panduan belajar pemrograman web secara praktis<br><br>---<br><br>## Hubungi Saya<br><br>- [LinkedIn](https://www.linkedin.com/in/tegarhidayatullah)  <br>- [Email](mailto:tegar@example.com)  <br>- [Portfolio](https://tegarhidayatullah.github.io)  <br><br>---<br><br>> “Teknologi adalah jembatan menuju masa depan yang lebih baik, dan saya ingin berkontribusi membangunnya.”  <br>> – Muhammad Tegar Hidayatullah<br>
+Muhammad Tegar Hidayatullah
+
+👋 Mahasiswa Sistem Informasi di Universitas Trisakti dengan keahlian PHP native.
+
+Proyek Unggulan
+
+Website Bengkel Mobil & Motor
+
+Website Restaurant
+
+Website Buku Tamu dengan Laravel
+
+Penulis buku pemrograman web
+
+Hobi
+
+Menghabiskan waktu di depan komputer
+
+Hubungi Saya
+
+LinkedIn
+
+Email
+
+
 
 
 # 💻 Tech Stack:
